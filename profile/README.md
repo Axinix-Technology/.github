@@ -66,7 +66,7 @@ mindmap
 
 ---
 
-### 2. 🏢 Workhub — Enterprise Multi-Tenant SaaS Platform
+### 2. 🏢 Axninx Workhub — Enterprise Multi-Tenant SaaS Platform
 > **Core Focus**: Unified All-In-One Enterprise Operations Suite
 
 A multi-tenant cloud operations system engineered for enterprise efficiency:
@@ -79,14 +79,14 @@ A multi-tenant cloud operations system engineered for enterprise efficiency:
 
 ---
 
-### 3. 🛍️ Central E-Commerce & Omnichannel Marketplace Engine
+### 3. 🛍️ Axinix E-Commerce - An Omnichannel Marketplace Engine for Sales
 > **Core Focus**: High-Throughput Retail, Inventory Ledgering & Live Marketplace Connectivity
 
-A specialized, high-performance retail and inventory management platform currently serving the **Baby & Ladies Products** industry (apparel, accessories, healthcare & personal care):
+A specialized, high-performance retail and inventory management platform currently serving the **Retail** industry:
 * **Live Marketplace Integration**: Bidirectional real-time sync with **Amazon** and **Flipkart** for automated inventory counts, price updates, and order ingestion.
 * **Unified Inventory Ledger**: Centralized multi-warehouse stock reservation preventing overselling across online and retail channels.
 * **Point of Sale & Billing**: Ultra-fast POS billing engine with instant invoice generation and tax compliance.
-* **Dynamic Architecture**: Powered by the Tracker-v2 architecture with zero redundant controllers/routers, streaming Gzip backups, and single-source semver automation.
+* **Dynamic Architecture**: Powered by the architecture with zero redundant controllers/routers, streaming Gzip backups, and single-source semver automation.
 
 ---
 
@@ -96,12 +96,12 @@ A specialized, high-performance retail and inventory management platform current
 
 | Name | Role | Strategic Focus |
 | :--- | :--- | :--- |
-| **Arunbharathi** | **Founder** | Vision, Architecture & Engineering Strategy |
-| **Ajay** | **Co-Founder** | Technology & Platform Development |
-| **Boopalan** | **Co-Founder** | Operations & Product Execution |
-| **Siva** | **Co-Founder** | Infrastructure & Systems Engineering |
-| **Guru** | **Co-Founder** | Business Growth & Product Design |
-| **Karuppasamy** | **Co-Founder** | Strategic Execution & Operations |
+| **Arunbharathi** | **Founder** | Product Vision & Architecture Governance |
+| **Ajay** | **Co-Founder** | Technology & UI/UX Development |
+| **Boopalan** | **Co-Founder** | Operations & Product Development |
+| **Siva** | **Co-Founder** | Business Growth & Marketing |
+| **Guru** | **Co-Founder** | Product Designing  |
+| **Karuppasamy** | **Co-Founder** | Testing & Quality Assurance |
 
 </div>
 
@@ -113,7 +113,7 @@ A specialized, high-performance retail and inventory management platform current
 
 | Domain | Core Technologies & Frameworks |
 | :--- | :--- |
-| **AI & LLM Services** | Python, OpenAI / Anthropic APIs, LangChain, Vector Embeddings, Token Pipeline |
+| **AI Services** | Python, AR.I.S, LangChain, Vector Embeddings, Token Pipeline |
 | **Backend & APIs** | Node.js, Express.js, Dynamic Populate Pipeline, Mongoose, Streaming Gzip |
 | **Frontend & Web** | React 19, Next.js, Vite 6, Tailwind CSS v4, Lucide React, Glassmorphism |
 | **Databases & Cache** | MongoDB Atlas, In-Memory Caching, Redis, Transactional Session Engines |
@@ -128,7 +128,7 @@ A specialized, high-performance retail and inventory management platform current
 
 1. **"Build Next Gen Today"** — We don't construct legacy systems. Every product is architected with modern asynchronous patterns, responsive reactive interfaces, and automated CI/CD deployment gates.
 2. **Single Source of Truth** — No fragmented configurations. All schema definitions, versions, and role policies are governed from centralized authoritative registries.
-3. **Populate-Helper First** — Business logic belongs in decoupled domain service hooks (`services/<model>.js`), maximizing code reuse, automated data sanitization, and security validations.
+3. **Populate-Helper First** — Business logic belongs in decoupled domain service hooks, maximizing code reuse, automated data sanitization, and security validations.
 4. **Resilient Data Governance** — Automated database lifecycle tracking with streaming compressed backups and self-pruning retention engines.
 
 ---
@@ -138,9 +138,13 @@ A specialized, high-performance retail and inventory management platform current
 ### 🤝 Let's Connect
 
 **Axinix Technologies** is continuously pioneering next-generation software products.  
-Interested in collaborating, investing, or joining our mission?
+Interested in collaborating, investing, or joining our mission? Reach out directly to our leadership team:
 
-**Motto**: *"Build Next Gen Today"*  
+📧 **Founder & Executive Contact**: [`arunbharathi.parkkavamani@gmail.com`](mailto:arunbharathi.parkkavamani@gmail.com) *(Arunbharathi)*
+
+<br />
+
+**Motto**: *"Tomorrow Starts Today"*  
 <sub>© 2026 Axinix Technologies. All rights reserved. Confidential & Proprietary.</sub>
 
 </div>
