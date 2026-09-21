@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7byIEVXRbmNuPdTeAdNtO1upS7bupHisvr4Ocm63bIXot3Arp7lwkGg&s=10" alt="Nexonic Technologies">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7byIEVXRbmNuPdTeAdNtO1upS7bupHisvr4Ocm63bIXot3Arp7lwkGg&s=10" alt="Axininx Technologies">
 </p>
 
 <div align="center">
 
-# Nexonic Technologies
+# Axininx Technologies
 
 ### Building enterprise software that scales with people and processes.
 
@@ -12,7 +12,7 @@
 ERP • HRMS • Automation • Workflow Platforms
 </p>
 
-[Website](https://nexonic.in) • [Products](#-products) • [Engineering](#-engineering)
+[Website](https://Axininx.in) • [Products](#-products) • [Engineering](#-engineering)
 
 </div>
 
@@ -97,7 +97,7 @@ Flexible → Configurable → Scalable → Maintainable
 
 ---
 
-# 🌟 Why Nexonic?
+# 🌟 Why Axininx?
 
 - Enterprise-first architecture
 - Configurable and extensible systems
@@ -111,8 +111,8 @@ Flexible → Configurable → Scalable → Maintainable
 
 ### Building the future of business operations.
 
-🌐 **Website:** https://nexonic.in
+🌐 **Website:** https://Axininx.in
 
-📧 **Email:** contact@nexonic.in
+📧 **Email:** contact@Axininx.in
 
 </div>
