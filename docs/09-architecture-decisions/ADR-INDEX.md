@@ -167,3 +167,4 @@ The login page (`login.jsx`) uses the browser-native `crypto.subtle.digest("SHA-
 
 - [`E-commerce/README.md`](file:///d:/Axinix%20Projects/E-commerce/README.md) — Authentication & Security section
 - `E-commerce/backend/users/backends.py` — DualPasswordBackend implementation
+

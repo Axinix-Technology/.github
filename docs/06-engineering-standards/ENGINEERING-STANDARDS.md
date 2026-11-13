@@ -189,3 +189,4 @@ No vendor chunk may exceed 600 kB. City/geography data must use modular subpath 
 - [../02-shared-technology/axinix-core/ARCHITECTURE.md](../02-shared-technology/axinix-core/ARCHITECTURE.md)
 - [../09-architecture-decisions/](../09-architecture-decisions/)
 - [../00-discovery/DEPENDENCY-INVENTORY.md](../00-discovery/DEPENDENCY-INVENTORY.md)
+

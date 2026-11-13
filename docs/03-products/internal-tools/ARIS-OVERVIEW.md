@@ -114,3 +114,4 @@ a12baac chore(git): explicitly whitelist and prevent aris/models/ from being ign
 
 - [../../../00-discovery/PRODUCT-INVENTORY.md](../../00-discovery/PRODUCT-INVENTORY.md)
 - [../../../05-architecture/ECOSYSTEM-ARCHITECTURE.md](../../05-architecture/ECOSYSTEM-ARCHITECTURE.md)
+

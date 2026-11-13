@@ -296,3 +296,4 @@ Based on the corporate portfolio document (`Axinix Technologies Portfolio.md`), 
 - [REPOSITORY-INVENTORY.md](./REPOSITORY-INVENTORY.md)
 - [TECHNOLOGY-INVENTORY.md](./TECHNOLOGY-INVENTORY.md)
 - [DEPENDENCY-INVENTORY.md](./DEPENDENCY-INVENTORY.md)
+

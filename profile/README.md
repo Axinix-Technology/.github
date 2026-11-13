@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/axinix-logo.png" width="180" alt="Axinix Technologies">
+</p>
+
 <div align="center">
 
 ```
@@ -10,19 +14,27 @@
    T   E   C   H   N   O   L   O   G   I   E   S
 ```
 
-# 🚀 Axinix Technologies
-### *"Build Next Gen Today"*
+# 🌌 Axinix Technologies
+### *"Innovating Future, Today"*
 
 ---
 
-[![Motto](https://img.shields.io/badge/motto-Build%20Next%20Gen%20Today-6366f1.svg?style=for-the-badge&logo=rocket&logoColor=white)](#)
-[![Stage](https://img.shields.io/badge/stage-Planning%20%26%20Incubation-emerald.svg?style=for-the-badge&logo=codewars&logoColor=white)](#)
-[![Founding Team](https://img.shields.io/badge/team-6%20Founders-blue.svg?style=for-the-badge&logo=github&logoColor=white)](#-founding-leadership)
-[![Ecosystem](https://img.shields.io/badge/products-AR.I.S%20%7C%20Workhub%20%7C%20OmniCommerce-violet.svg?style=for-the-badge&logo=stackshare&logoColor=white)](#-strategic-product-ecosystem)
+[![Vision: Innovating Future, Today](https://img.shields.io/badge/Vision-Innovating%20Future%2C%20Today-6366f1.svg?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![Engineering](https://img.shields.io/badge/Engineering-Enterprise%20Grade-0284c7.svg?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![Leadership](https://img.shields.io/badge/Leadership-Executive%20Council-purple.svg?style=for-the-badge&logo=github&logoColor=white)](#-leadership-team)
+[![Commercial Suite](https://img.shields.io/badge/Ecosystem-Commercial%20Enterprise%20Suite-violet.svg?style=for-the-badge&logo=stackshare&logoColor=white)](#-commercial-product-portfolio)
+[![Corporate Playbook](https://img.shields.io/badge/Governance-Corporate%20Charter-teal.svg?style=for-the-badge&logo=gitbook&logoColor=white)](../Axinix_Corporate_Charter_and_Commercial_Playbook.md)
 
 <br />
 
-**Axinix Technologies** is a modern technology innovation lab and software product studio. We engineer next-generation artificial intelligence agents, enterprise SaaS ERP platforms, and high-performance multi-channel commerce engines designed to scale businesses seamlessly from local operations to global markets.
+**Axinix Technologies** is an enterprise technology innovation company building next-generation software platforms, intelligent autonomous AI agents, and modular cloud architectures. We transform real-world business complexity into dependable digital solutions designed to scale enterprises smoothly to global markets.
+
+---
+
+### 🏛️ CORPORATE GOVERNANCE & CHARTER
+> [!NOTE]
+> The complete operating principles, commercial governance, profit-sharing model, and portfolio architecture of Axinix Technologies are detailed in our master document:  
+> 📖 **[Read the Axinix Corporate Charter & Commercial Playbook](../Axinix_Corporate_Charter_and_Commercial_Playbook.md)**
 
 ---
 
@@ -30,121 +42,151 @@
 
 <br />
 
-## 🌐 Strategic Product Ecosystem
+## 🌐 Commercial Product Portfolio
 
 ```mermaid
 mindmap
-  root((🚀 Axinix Technologies))
-    🤖 AR.I.S
-      Token-Based LLM Engine
-      Autonomous Coding Agents
-      AST & Codebase Engineering
-      Multi-Agent Orchestration
-    🏢 Workhub ERP
-      HRMS & Biometric Sync
-      Automated Payroll & Tax
-      Omnichannel Help Desk
+  root((🌌 Axinix Technologies))
+    🤖 AR.I.S Intelligence
+      Cognitive AI Agent Engine
+      Autonomous Code Refactoring
+      Contextual Decision Support
+      Real-Time Data Parsing
+    🏢 Workhub Enterprise Suite
+      HRMS & Employee Operations
+      Automated Payroll & Compliance
+      Omnichannel SLA Help Desk
       Project & Sprint Kanban
-      Enterprise CRM Pipeline
-      Digital & IT Asset Tracking
-    🛒 Omni-Commerce & Retail
-      Baby & Ladies Products
-      Real-Time Inventory Ledger
-      Amazon & Flipkart Sync
-      Cloud POS & Fast Billing
-      Dynamic Populate Engine
+      Asset & Inventory Management
+    🏭 Industrial & Vertical Solutions
+      Textile Manufacturing ERP
+      Loom-Level Production Ledger
+      Multi-Warehouse Stock Control
+      Live Marketplace Sync
+    ⚡ Core Engineering Platforms
+      Populate Engine (Metadata APIs)
+      High-Speed Cloud Billing POS
+      High-Throughput Data Streaming
+      Automated Security & Access RBAC
 ```
 
 ---
 
 ### 1. 🤖 AR.I.S — Artificial Intelligent System
-> **Core Focus**: Autonomous LLM & Agentic Token Architecture
+> **Enterprise AI & Autonomous Cognitive Automation**
 
-* **Autonomous Code Generation**: An internal intelligent agent framework engineered to assist and automate codebase creation, refactoring, and AST inspections (comparable to Claude / Codex agentic pipelines).
-* **Token-Optimized Micro-Agents**: Domain-specific autonomous agents operating on structured token-efficient context pipelines for real-time task orchestration.
-* **Embedded Intelligence**: Deeply woven into all Axinix platforms to power intelligent auto-completion, contextual summaries, and business intelligence.
-
----
-
-### 2. 🏢 Axninx Workhub — Enterprise Multi-Tenant SaaS Platform
-> **Core Focus**: Unified All-In-One Enterprise Operations Suite
-
-A multi-tenant cloud operations system engineered for enterprise efficiency:
-* **HRMS & People Operations**: Complete employee lifecycle, attendance, performance reviews, and document automation.
-* **Automated Payroll**: Accurate salary computation, deduction rules, tax sheets, and automated payslip delivery.
-* **Help Desk & Service Management**: SLA-driven internal and customer ticketing with multi-channel routing.
-* **Project & Task Management**: Interactive sprint boards, backlog planning, and Gantt timeline tracking.
-* **Enterprise CRM**: Lead acquisition funnels, client communications, and pipeline conversion metrics.
-* **Asset Tracking & Ledger**: Real-time management of hardware, devices, software licenses, and asset assignment.
+* **Cognitive Decision Engines:** Neural tensor architectures designed for autonomous enterprise workflows, contextual recommendations, and intelligent system orchestration.
+* **Autonomous Task Reasoning:** Streamlines multi-step technical pipelines, automated code reviews, AST inspections, and dynamic business logic synthesis.
+* **Embedded Platform Intelligence:** Directly integrated into the Populate Engine and Workhub to provide instant operational insights and predictive analytics.
 
 ---
 
-### 3. 🛍️ Axinix E-Commerce - An Omnichannel Marketplace Engine for Sales
-> **Core Focus**: High-Throughput Retail, Inventory Ledgering & Live Marketplace Connectivity
+### 2. 🏢 Workhub — Modular Enterprise Operations Platform
+> **Unified All-In-One Enterprise Management Suite**
 
-A specialized, high-performance retail and inventory management platform currently serving the **Retail** industry:
-* **Live Marketplace Integration**: Bidirectional real-time sync with **Amazon** and **Flipkart** for automated inventory counts, price updates, and order ingestion.
-* **Unified Inventory Ledger**: Centralized multi-warehouse stock reservation preventing overselling across online and retail channels.
-* **Point of Sale & Billing**: Ultra-fast POS billing engine with instant invoice generation and tax compliance.
-* **Dynamic Architecture**: Powered by the architecture with zero redundant controllers/routers, streaming Gzip backups, and single-source semver automation.
+Built on the principle that modules must be **independently deployable and exponentially more valuable when unified**:
+* **HRMS & People Operations:** End-to-end employee lifecycle management, biometric attendance sync, automated leave policies, and shift planning.
+* **Automated Payroll & Compliance:** Accurate salary computation, statutory deductions (PF/ESI/TDS), digital payslips, and tax filings.
+* **Service Desk & SLA Management:** Multi-channel customer and internal support ticketing, SLA tracking, and automated escalation.
+* **Project & Workflow Management:** Interactive sprint boards, backlog planning, and executive milestone delivery tracking.
+* **Enterprise Asset Ledger:** Real-time tracking of hardware, devices, software licenses, and asset allocation across business units.
 
 ---
 
-## 👥 Founding Leadership
+### 3. 🏭 Industrial & Vertical Enterprise Solutions
+> **Domain-Specific ERP & Omnichannel Commerce**
+
+* **Textile Manufacturing ERP:** Deep vertical specialization covering spinning, weaving, wet processing, yarn tracking, and loom-level metrics.
+* **Live Marketplace Integration:** Real-time bidirectional stock and order synchronization with Amazon, Flipkart, and wholesale portals.
+* **Unified Inventory Ledger:** Centralized multi-warehouse reservation preventing overselling across digital and physical wholesale channels.
+
+---
+
+### 4. ⚡ Populate Engine
+> **High-Performance Metadata-Driven API Platform**
+
+* **Elimination of Redundant Controllers:** Custom business logic executes cleanly within modular domain service hooks (`services/<model>.js`), maximizing reuse and performance.
+* **Enterprise Security & Policy Controls:** Built-in field-level data sanitization (`sanitizeWrite`, `sanitizeRead`), fine-grained RBAC, and immutable audit logging.
+* **Sub-Millisecond Data Latency:** Minimal database lock windows, composite soft-delete indexing, and automated query optimization.
+
+---
+
+## 👥 Leadership Team
+
+Axinix is directed by an eight-member executive team combining enterprise software engineering, quality assurance, infrastructure operations, and business strategy.
 
 <div align="center">
 
-| Name | Role | Strategic Focus |
+| Executive | Role & Title | Strategic Focus |
 | :--- | :--- | :--- |
-| **Arunbharathi** | **Founder** | Product Vision & Architecture Governance |
-| **Ajay** | **Co-Founder** | Technology & UI/UX Development |
-| **Boopalan** | **Co-Founder** | Operations & Product Development |
-| **Siva** | **Co-Founder** | Business Growth & Marketing |
-| **Guru** | **Co-Founder** | Product Designing  |
-| **Karuppasamy** | **Co-Founder** | Testing & Quality Assurance |
+| **Arunbharathi** | **Chief Executive Officer & CTO** | Corporate Strategy, Systems Architecture & Technology Direction |
+| **Ajay** | **Head of Development & Processing** | Engineering Execution & Technical Operations |
+| **Boopalan** | **Core Development Lead** | Enterprise Backend Services & Database Architecture |
+| **Guru Prasanth** | **Quality Assurance Lead** | Quality Strategy, Functional Verification & Release Certification |
+| **Karuppasamy** | **QA & Test Automation Specialist** | Automated Test Suites & Performance Engineering |
+| **Rithika** | **Head of Operations & DevOps** | Operations Management, CI/CD Cloud Infrastructure & Culture |
+| **Ruthran** | **Senior Frontend Engineer** | Client Applications, Workhub UI & Responsive UX |
+| **Siva** | **Head of Business Strategy & R&D** | Market Discovery, Commercial Validation & Exploratory Labs |
 
 </div>
 
 ---
 
-## 🛠️ Technology Radar & Engineering Stack
+## 🛠️ Technology Radar & Core Stack
 
 <div align="center">
 
-| Domain | Core Technologies & Frameworks |
+| Layer | Technologies & Platforms |
 | :--- | :--- |
-| **AI Services** | Python, AR.I.S, LangChain, Vector Embeddings, Token Pipeline |
-| **Backend & APIs** | Node.js, Express.js, Dynamic Populate Pipeline, Mongoose, Streaming Gzip |
-| **Frontend & Web** | React 19, Next.js, Vite 6, Tailwind CSS v4, Lucide React, Glassmorphism |
-| **Databases & Cache** | MongoDB Atlas, In-Memory Caching, Redis, Transactional Session Engines |
-| **Integrations** | Amazon SP-API, Flipkart Marketplace API, Webhook Handlers, Cloud POS |
-| **DevOps & Gates** | SemVer Automation (`version.json`), Pre-Deploy Gates, node-cron Schedulers |
+| **AI & Intelligent Systems** | Python, PyTorch, AR.I.S, AST Transformers, Vector Embeddings |
+| **Backend & APIs** | Node.js (LTS), Express.js, TypeScript, Populate Engine Pipeline, Python Django REST Api |
+| **Frontend & Mobile** | React 19, Next.js, Vite, React Native, Tailwind CSS, Lucide Icons, FLutter |
+| **Data & Storage** | MongoDB Atlas, Redis Caching, Cloudflare R2, Streaming Gzip Archives, MySQL |
+| **DevOps & Cloud** | GitHub Actions CI/CD, Scheduled Automation, Linux |
 
 </div>
 
+<p align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</p>
+
 ---
 
-## 📐 Core Engineering Principles
+## 📐 Core Engineering & Quality Principles
 
-1. **"Build Next Gen Today"** — We don't construct legacy systems. Every product is architected with modern asynchronous patterns, responsive reactive interfaces, and automated CI/CD deployment gates.
-2. **Single Source of Truth** — No fragmented configurations. All schema definitions, versions, and role policies are governed from centralized authoritative registries.
-3. **Populate-Helper First** — Business logic belongs in decoupled domain service hooks, maximizing code reuse, automated data sanitization, and security validations.
-4. **Resilient Data Governance** — Automated database lifecycle tracking with streaming compressed backups and self-pruning retention engines.
+1. **"Understand Before Engineering"** — We observe actual operational workflows before proposing any technical solution.
+2. **"Our Mistakes Are Our Responsibility"** — We do not bill clients for our defects, even after warranty expiry. Engineers are fairly paid for defect remediation.
+3. **The Standardization Ladder** — Level 1: Client Customization $\rightarrow$ Level 2: Generalized Configurable Capability $\rightarrow$ Level 3: Universal Industry Standard.
+4. **Populate-Helper First** — All domain logic resides in decoupled domain service hooks (`services/<model>.js`), inheriting automated RBAC, data sanitization, and audit logging.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🤝 Partner With Axinix Technologies
 
-**Axinix Technologies** is continuously pioneering next-generation software products.  
-Interested in collaborating, investing, or joining our mission? Reach out directly to our leadership team:
+We build dependable enterprise platforms that adapt, extend, and scale with your business.  
+To explore commercial engagements, partnerships, or enterprise solutions:
 
-📧 **Founder & Executive Contact**: [`arunbharathi.parkkavamani@gmail.com`](mailto:arunbharathi.parkkavamani@gmail.com) *(Arunbharathi)*
+📧 **Executive Contact:** [`contact@axinixtechnologies.com`](mailto:contact@axinixtechnologies.com) • [`axinixtechnologies@gmail.com`](mailto:axinixtechnologies@gmail.com)  
+🌐 **Website:** [https://axinixtechnologies.com](https://axinixtechnologies.com)  
+📜 **Corporate Governance:** [Axinix Corporate Charter & Commercial Playbook](../Axinix_Corporate_Charter_and_Commercial_Playbook.md)
 
 <br />
 
-**Motto**: *"Tomorrow Starts Today"*  
-<sub>© 2026 Axinix Technologies. All rights reserved. Confidential & Proprietary.</sub>
+```
+═════════════════════════════════════════════════════════════════════════════════════════════
+                 AXINIX TECHNOLOGIES • INNOVATING FUTURE, TODAY
+═════════════════════════════════════════════════════════════════════════════════════════════
+```
 
 </div>

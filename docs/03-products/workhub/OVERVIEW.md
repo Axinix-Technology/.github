@@ -316,3 +316,4 @@ JobOpening → Candidate (APP-YYYY-XXXX) → Interview → Offer → Hired (quot
 | Version Metadata | [`version.json`](file:///d:/Axinix%20Projects/tracker-v2/version.json) |
 | Mobile pubspec | [`tracker_mobile/pubspec.yaml`](file:///d:/Axinix%20Projects/tracker-v2/tracker_mobile/pubspec.yaml) |
 | Backend Requirements | [`backend/requirements.txt`](file:///d:/Axinix%20Projects/tracker-v2/backend/requirements.txt) |
+

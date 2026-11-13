@@ -152,3 +152,4 @@ From `views.py` inspection (Axinix Core's `get_permissions()`):
 - [Chai Point POS Overview](./chai-point-pos/OVERVIEW.md) — *(to be created)*
 - [../../../02-shared-technology/axinix-core/ARCHITECTURE.md](../../02-shared-technology/axinix-core/ARCHITECTURE.md)
 - [REPOSITORY-INVENTORY.md](../../../00-discovery/REPOSITORY-INVENTORY.md)
+
